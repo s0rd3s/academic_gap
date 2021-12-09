@@ -1,0 +1,4 @@
+﻿  l2.1.2.cpp
+D:\vscode\academ\l2.1.2_v8\l2.1.2\l2.1.2.cpp(11,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\vscode\academ\l2.1.2_v8\l2.1.2\l2.1.2.cpp(16,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  l2.1.2.vcxproj -> D:\vscode\academ\l2.1.2_v8\Debug\l2.1.2.exe

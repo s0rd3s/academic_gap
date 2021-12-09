@@ -1,0 +1,4 @@
+﻿  l2.6_v8.cpp
+D:\vscode\academ\l2.6_v8\l2.6_v8\l2.6_v8.cpp(25,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\vscode\academ\l2.6_v8\l2.6_v8\l2.6_v8.cpp(9,9): warning C4101: i: неиспользованная локальная переменная
+  l2.6_v8.vcxproj -> D:\vscode\academ\l2.6_v8\Debug\l2.6_v8.exe

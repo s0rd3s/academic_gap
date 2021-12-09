@@ -1,0 +1,4 @@
+﻿  l1.2v8.cpp
+D:\vscode\academ\l1.2v8\l1.2v8\l1.2v8.cpp(14,43): warning C4552: "<=": результат выражения не используется
+D:\vscode\academ\l1.2v8\l1.2v8\l1.2v8.cpp(19,47): warning C4552: "<=": результат выражения не используется
+  l1.2v8.vcxproj -> D:\vscode\academ\l1.2v8\Debug\l1.2v8.exe

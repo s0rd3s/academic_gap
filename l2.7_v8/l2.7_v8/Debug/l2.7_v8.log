@@ -1,0 +1,8 @@
+﻿  l2.7_v8.cpp
+D:\vscode\academ\l2.7_v8\l2.7_v8\l2.7_v8.cpp(14,35): warning C4305: +=: усечение из "double" в "float"
+D:\vscode\academ\l2.7_v8\l2.7_v8\l2.7_v8.cpp(15,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\vscode\academ\l2.7_v8\l2.7_v8\l2.7_v8.cpp(20,27): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\vscode\academ\l2.7_v8\l2.7_v8\l2.7_v8.cpp(28,23): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\vscode\academ\l2.7_v8\l2.7_v8\l2.7_v8.cpp(33,35): warning C4305: +=: усечение из "double" в "float"
+D:\vscode\academ\l2.7_v8\l2.7_v8\l2.7_v8.cpp(36,48): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  l2.7_v8.vcxproj -> D:\vscode\academ\l2.7_v8\Debug\l2.7_v8.exe

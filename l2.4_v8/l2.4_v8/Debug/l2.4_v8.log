@@ -1,0 +1,3 @@
+﻿  l2.4_v8.cpp
+D:\vscode\academ\l2.4_v8\l2.4_v8\l2.4_v8.cpp(31,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  l2.4_v8.vcxproj -> D:\vscode\academ\l2.4_v8\Debug\l2.4_v8.exe
